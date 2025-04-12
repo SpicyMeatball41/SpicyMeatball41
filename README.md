@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpicyMeatball41
 
-Uhh, I guess that's it. More will be added later.
+- Aspiring Ethical Hacker.
 
-Stay Tuned :)
+- The next Kevin Mitnick? Probably not.
