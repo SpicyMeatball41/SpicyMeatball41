@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpicyMeatball41
 
-- Aspiring Ethical Hacker.
+- Aspiring Ethical Hacker/Penetration Tester
 
-- The next Kevin Mitnick? Probably not.
+- I mostly do CTF challenges, and Bug Bounty programs via Hackerone.
