@@ -1,4 +1,4 @@
-# Hello, I’m @SpicyMeatball41
+# Hello, I’m SpicyMeatball41
 
 Offensive Security Enthusiast
 
