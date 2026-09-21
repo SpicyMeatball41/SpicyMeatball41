@@ -1,7 +1,9 @@
-- Hello, I’m @SpicyMeatball41
+# Hello, I’m @SpicyMeatball41
 
-- Offensive Security Enthusiast
-- 
-- I mostly do CTF challenges, Bug Bounty programs via Hackerone, and a bit of scripting. I like the clicks and clacks of a keyboard :)
+Offensive Security Enthusiast
 
-- Developing Novari - A Personal Offensive Security AI Assistant (Work in Progress)
+I mostly do CTF challenges, Bug Bounty programs via Hackerone, and a bit of scripting. I like the clicks and clacks of a keyboard :)
+
+## Developing Novari - A Personal Offensive Security AI Assistant (Work in Progress)
+
+#### Also Feel Free to check out my UBI Internship Advanced Projects (Stages 5-9A)
